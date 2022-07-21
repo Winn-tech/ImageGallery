@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body { 
+    font-family: "Helvetica","Arial",serif; 
+    color: #333; 
+    background-color: #ccc; 
+    margin: 1em 10%; 
+   } 
+
+h2{
+    text-align: center;
+    color: darkblue;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: 5% auto;
+    text-align: center;
+}
+
+ul li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 10px;
+    text-align: center;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
+img{
+
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 3% auto;
+}
